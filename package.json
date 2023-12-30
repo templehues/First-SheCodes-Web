@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 {
   "name": "ops-challenge",
   "version": "1.0.0",
@@ -15,7 +15,6 @@
   },
   "keywords": []
 }
-=======
 {
   "name": "ops-challenge",
   "version": "1.0.0",
@@ -32,4 +31,3 @@
   },
   "keywords": []
 }
->>>>>>> 551bcfd92b4c28f0fd0def4f688d880a96997ee4
